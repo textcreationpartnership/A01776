@@ -35,9 +35,63 @@ This keyboarded and encoded edition of the
 ##Content Summary##
 
 #####Front#####
-Poëms, by Henry GlapthornGlapthorne, Henry.1639Approx. 84 KB of XML-encoded text transcribed from 36
+
+1. TO THE RIGHT HONOURABLE, IEROME, Earle of PORTLAND.
+
 #####Body#####
-Poëms, by Henry GlapthornGlapthorne, Henry.1639Approx. 84 KB of XML-encoded text transcribed from 36
+
+1. Vpon the Duke of York his Birth-night at Richmond.
+
+1. Entertainment to the Prince Elector at Mr. Osbalston's.
+
+1. To Lucinda, upon the first sight of her Beautie.
+
+1. Lucinda describ'd.
+
+1. To Lucinda departing.
+
+1. To Lucinda weeping.
+
+1. To Lucinda. A New-years Gift.
+
+1. To Sleep, upon Lucinda layd to rest.
+
+1. To Lucinda: inviting her from her Chamber.
+
+1. To Lucinda. He being in Prison.
+
+1. To Lucinda, revolted from him.
+VNclose those Eye-lids, and out-shineThe brightnesse of the breaking day;The light they cover is div
+1. Epithalamium.
+
+1. Epithalamium.
+
+1. Upon a Gentleman playing on the Lute.
+
+1. Love.
+
+1. To a reviv'd Vacation Play, Prologue.
+
+1. For Ezekiel Fen at his first Acting a Mans Part. PROLOGVE.
+
+1. To Mr. Charles Cotton.
+
+1. To my Friend, Advice.
+
+1. Vpon the right Honourable RICHARD Earle of Portland, late Lord High Treasurer of ENGLAND. ELEGIE.
+
+1. On Sir Robert Ayton, late Secretarie to her Majestie. ELEGIE.
+
+1. Vpon the Noble Colonell-Generall Burroughs, slaine at the Isle of Ree. ELEGIE.
+
+1. Vpon the right Honourable, the Lady Elisabeth Rich. ELEGIE.
+
+1. Vpon the death of his Sister, Mrs.Priscilla Glapthorne. ELEGIE.
+
+1. Vpon the death of Mrs.Susanna Osbalston. ELEGIE.
+
+1. SYLVIA. A FRAGMENT.
+
 **Types of content**
 
   * There are 1559 **verse** lines!
